@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F36B023-74FC-DC1A-A5E7-40A409D16EBB}|AuthorBooksAPI\\AuthorBooksAPI.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F36B023-74FC-DC1A-A5E7-40A409D16EBB}|AuthorBooksAPI\\AuthorBooksAPI.csproj|solutionrelative:authorbooksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F36B023-74FC-DC1A-A5E7-40A409D16EBB}|AuthorBooksAPI\\AuthorBooksAPI.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F36B023-74FC-DC1A-A5E7-40A409D16EBB}|AuthorBooksAPI\\AuthorBooksAPI.csproj|solutionrelative:authorbooksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.domain\\entities\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|solutionrelative:authorbooksapi.domain\\entities\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.application\\implimentations\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|solutionrelative:authorbooksapi.application\\implimentations\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.infrastructure\\authorbooksapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|solutionrelative:authorbooksapi.infrastructure\\authorbooksapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.infrastructure\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|solutionrelative:authorbooksapi.infrastructure\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.infrastructure\\implementations\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79438BE8-913F-4091-87AA-BC6AEABA2C7B}|AuthorBooksAPI.Infrastructure\\AuthorBooksAPI.Infrastructure.csproj|solutionrelative:authorbooksapi.infrastructure\\implementations\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.application\\interfaces\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|solutionrelative:authorbooksapi.application\\interfaces\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|solutionrelative:authorbooksapi.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|solutionrelative:authorbooksapi.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF4B87A-4ACD-4D82-A683-7941E800ACF0}|AuthorBooksAPI.Domain\\AuthorBooksAPI.Domain.csproj|solutionrelative:authorbooksapi.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.application\\dto\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|solutionrelative:authorbooksapi.application\\dto\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|c:\\users\\loq\\source\\repos\\authorbooksapi\\authorbooksapi.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC2F0E-8107-4821-BA52-572D02B74104}|AuthorBooksAPI.Application\\AuthorBooksAPI.Application.csproj|solutionrelative:authorbooksapi.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorBooksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI\\appsettings.json",
+              "RelativeToolTip": "AuthorBooksAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-23T02:31:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AuthorBooksAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T02:21:07.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorBook.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\AuthorBook.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Domain\\Entities\\AuthorBook.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\AuthorBook.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Domain\\Entities\\AuthorBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T02:18:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\Implimentations\\BooksService.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Application\\Implimentations\\BooksService.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\Implimentations\\BooksService.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Application\\Implimentations\\BooksService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T01:53:12.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\DTO\\BaseDto.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Application\\DTO\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\DTO\\BaseDto.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Application\\DTO\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T01:49:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Application\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\DTO\\BookDto.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Application\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T01:48:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\Interfaces\\IBooksService.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Application\\Interfaces\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Application\\Interfaces\\IBooksService.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Application\\Interfaces\\IBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T01:45:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorBooksAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\AuthorBooksAPIDbContext.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Infrastructure\\AuthorBooksAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\AuthorBooksAPIDbContext.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Infrastructure\\AuthorBooksAPIDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:43:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\Implementations\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Infrastructure\\Implementations\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\Implementations\\BooksRepository.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Infrastructure\\Implementations\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:39:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\Interfaces\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Infrastructure\\Interfaces\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Infrastructure\\Interfaces\\IBooksRepository.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Infrastructure\\Interfaces\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:32:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:30:51.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:30:28.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AuthorBooksAPI.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\AuthorBooksAPI\\AuthorBooksAPI.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "AuthorBooksAPI.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T02:29:56.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
